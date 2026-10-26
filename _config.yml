@@ -1,0 +1,8 @@
+# Short site title, different from the page title, so the title tag becomes
+# "<page title> | Plumbing Help" (no phone number in the title).
+title: "Plumbing Help"
+description: "Main sewer line clogged? Call a 24/7 plumber at +1 (877) 270-1778, or use this guide to spot the signs, stop the backup and clear it safely."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+lang: en-US
